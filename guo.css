@@ -26,7 +26,7 @@ body, html {
 @media (min-width: 1050px) { 
 	#usain_description{
 		margin-top: 20%;
-		font-size: 500%;
+		font-size: 700%;
 	}
 
 	#next_big_thing{
@@ -48,7 +48,7 @@ body, html {
 
 @media (max-width: 767px) {
 	#usain_description{
-		font-size: 500%;
+		font-size: 300%;
 		margin-left: 10%;
 		text-align: center;
 	}
